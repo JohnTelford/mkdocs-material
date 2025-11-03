@@ -12,12 +12,16 @@ theme:
   markdown_extensions:
   - toc:
       permalink: true
-      toc_depth: 2-4
+      toc_depth: 2-5
   - admonition
   - codehilite
 
   nav:
     Home: index.md
     Radio: Radio.md
+    Electronic Components: ElectronicComponentes.md
+    TechEducation: TechEducation.md
+
+
 
 

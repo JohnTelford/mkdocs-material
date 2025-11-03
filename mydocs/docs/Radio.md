@@ -1,6 +1,5 @@
 # Radio Journeys
 
-
 My radio journey commenced with the family Zenith radio. It was a multiband radio that included some amateur radio and foreign broadcast bands. I particularly enjoyed listening to Voice of America, South American, Australian, and others stations. Listening to amateur radio bands also piqued my interest.
 
 ## Amater Radio
