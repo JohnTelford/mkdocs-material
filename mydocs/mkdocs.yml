@@ -1,4 +1,23 @@
 site_name: Tech Memoris
-theme: 
+
+theme:
   name: material
+  features:
+    - navigation.sections      # collapsible sidebar
+    - toc.follow               # keeps right-hand TOC in sync
+    - toc.integrate            # integrates TOC into page layout
+    - navigation.instant       # instant page loads
+    - navigation.expand        # expands all sections by default
+
+  markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2-4
+  - admonition
+  - codehilite
+
+  nav:
+    Home: index.md
+    Radio: Radio.md
+
 
