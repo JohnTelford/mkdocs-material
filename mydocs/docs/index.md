@@ -1,7 +1,8 @@
 # Technology Journeys
 
-This website is about my journies to various technologies.
+This website chronicles my journeys exploring various technologies.
 
-As a technology enthusiast with a lifelong fascination for the subject, I embark on my daily technological journies by utilizing an RSS (Really Simple Syndication) computer application. It queries selected websites to identify new web postings, and only the most captivating bookmarks are saved for future reference.
+As a lifelong technology enthusiast, I start my day by using an RSS (Really Simple Syndication) computer application. This application queries selected websites to discover new web postings, and I only save the most captivating bookmarks for future reference.
 
-Throughout my career, I have engaged in diverse technological fields, including consulting, management, engineering, and individual contributions. My areas of expertise encompass hardware and software development, project management, and project rescue. Furthermore, I possess proficiency in analyzing and monitoring the performance of hardware, networks, software, and web technologies.
+Throughout my career, I’ve worked in diverse technological fields, including consulting, management, engineering, and individual contributions. My expertise spans hardware and software development, project management, and project rescue. Additionally, I analyze and monitor performance of hardware, networks, software, and web technologies.
+
