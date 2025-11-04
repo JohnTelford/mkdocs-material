@@ -6,8 +6,9 @@ theme:
     - navigation.sections      # collapsible sidebar
     - toc.follow               # keeps right-hand TOC in sync
     - toc.integrate            # integrates TOC into page layout
-    - navigation.instant       # instant page loads
-    - navigation.expand        # expands all sections by default
+   # - navigation.instant       # instant page loads
+    - navigation.expand
+    - navigation.top       # expands all sections by default
 
   markdown_extensions:
   - toc:
@@ -17,11 +18,10 @@ theme:
   - codehilite
 
   nav:
-    Home: index.md
-    Radio: Radio.md
-    Electronic Components: ElectronicComponentes.md
-    TechEducation: TechEducation.md
-
+    - Home: mydocs/index.md
+    - Radio: mydocs/Radio.md
+    - Electronic Components: mydocs/ElectronicComponentes.md
+    - TechEducation: mydocs/TechEducation.md
 
 
 
