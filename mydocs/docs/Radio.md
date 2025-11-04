@@ -4,7 +4,7 @@ My radio journey commenced with the family multiband radio that included some am
 
 ## Amater Radio
 
-Learning about basic radios and transmitters at the city library, and building a crystal radio able to receive local AM signals without external power.
+Learning about basic radios And transmitters at the city library, and building a crystal radio able to receive local AM signals without external power.
 
 ### Licensing
 
