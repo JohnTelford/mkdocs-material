@@ -2,6 +2,7 @@
 
 ## Junior College
 
+
 My academic journey in electronic engineering commenced during my enrollment at a technology junior college.
 
 During my studies, I continued a keen interest in electronic components and the utilization of electronic instruments, particularly oscilloscopes.

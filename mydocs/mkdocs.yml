@@ -6,8 +6,8 @@ theme:
     - navigation.sections      # collapsible sidebar
     - toc.follow               # keeps right-hand TOC in sync
     - toc.integrate            # integrates TOC into page layout
-   # - navigation.instant       # instant page loads
-    - navigation.expand
+    - navigation.instant       # instant page loads
+   # - navigation.expand
     - navigation.top       # expands all sections by default
 
   markdown_extensions:
