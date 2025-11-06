@@ -6,17 +6,8 @@ theme:
     - navigation.sections      # collapsible sidebar
     - toc.follow               # keeps right-hand TOC in sync
     - toc.integrate            # integrates TOC into page layout
-    - navigation.instant       # instant page loads
-   # - navigation.expand
-    - navigation.top       # expands all sections by default
-
-  markdown_extensions:
-  - toc:
-      permalink: true
-      toc_depth: 2-5
-  - admonition
-  - codehilite
-
+    - navigation.instant       # instant page load
+    
   nav:
     - Home: mydocs/index.md
     - Radio: mydocs/Radio.md

@@ -5,9 +5,9 @@ My radio journey commenced with the family multiband radio that included some am
 
 ## Amater Radio
 
-Learning about basic radios And transmitters at the city library, and building a crystal radio able to receive local AM signals without external power.
+Learning about basic radios. transmitters, and atennas at the city library, and building a crystal radio able to receive local AM signals without external power.
 
-### Licensing
+## Licensing
 
 Studying and passing FCC tests for novice and general amateur radio licenses, with a focus on Morse Code practicing reception and transmission using a homemade transistor audio oscillator and Morse key.
 
