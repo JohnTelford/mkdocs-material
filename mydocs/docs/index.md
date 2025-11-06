@@ -10,5 +10,6 @@ These are my personal experiences and observations of various technologies.
 
 3. [**Electronic Education**](TechEducation.md): The field dedicated to designing, developing, and testing electronic systems and devices.
 
-4. [**Computers and Software**](ComputersAndSoftware.md): The modern era of technology, characterized by the development of computers and software applications capable of performing a wide range of tasks.
+4. [**Computers**](Computers.md): The modern era of technology, characterized by the development of computers capable of performing a wide range of tasks.
 
+5. [**Software**](Software.md): The modern era of technology, characterized by the development of software for computers capable of performing a wide range of tasks.
