@@ -10,4 +10,4 @@ The Tech Journies are :
 1. Computers and Software
 1. Artificial Intelligence
 1. Quantum Mechanics
-1. Astronomy1
+1. Astronomy
