@@ -10,6 +10,7 @@ This is my memoir of personal experiences and observations of various technologi
 
 1. [**Electronic Components**](ElectronicComponents.md): The fundamental building blocks of electronic devices, comprising various components such as resistors, capacitors, transistors, and vacuum tubes.
 
+<<<<<<< HEAD
 ## Electronic Education
 
 1. [**Electronic Education**](TechEducation.md): The field dedicated to designing, developing, and testing electronic systems and devices.
