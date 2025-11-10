@@ -13,6 +13,21 @@ theme:
     - Radio: mydocs/Radio.md
     - Electronic Components: mydocs/ElectronicComponentes.md
     - TechEducation: mydocs/TechEducation.md
+    - Projects: mydocs/Projects.md
+    - Computer: mydocs/Computer.md
+    - Software: mydocs/Software.md
+
+  plugins:
+    - search
+    - exclude-search:
+        exclude:
+          - src/SUMMARY.md
+
+  markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+          
 
 
 
