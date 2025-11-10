@@ -21,3 +21,8 @@ This is my memoir of personal experiences and observations of various technologi
 ## Software
 
 1. [**Software**](Software.md): The modern era of technology, characterized by the development of software for computers capable of performing a wide range of tasks.
+
+## Web
+
+1. [**Web**](Web.md):
+
